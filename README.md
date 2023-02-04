@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was written in ract
+This project was written in react
 
 ## Available Scripts
 
